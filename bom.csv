@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"R1, R2",2," Photoresistor"
+"SERVO1",1,"Positional Micro Servo"
+"R3, R4",2,"10 kΩ Resistor"
+"SC1",1,"5 V, 100 mA Solar Cell"
+"U2",1," Temperature Sensor [TMP36]"
+"U3",1,"PCF8574-based, 39 (0x27) LCD 16 x 2 (I2C)"
